@@ -2,6 +2,7 @@
 
 1. [Именование классов и интерфейсов](/articles/Naming.md)
 2. [Модели и компоненты](/articles/ModelsAndComponents.md)
+3. [Тестирование](/articles/Testing.md)
 
 
 # Правила именования компонент и моделей
