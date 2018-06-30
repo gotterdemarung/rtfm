@@ -20,3 +20,15 @@ curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin
 ```bash
 bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
 ```
+
+# Some useful links
+
+* [Asciinema](https://asciinema.org/) - recording console interactions
+* Framework benchmarks [TechEmpower](http://www.techempower.com/benchmarks/)
+* Analyzing technology, website [built with](https://builtwith.com/)
+* PHP [eval](https://3v4l.org/) online
+* Online [RegExp](https://regex101.com/)
+* Security & encryption
+  * [Cryptico](http://wwwtyro.github.io/cryptico/) -  JS RSA & AES library
+  * [Sodium](https://download.libsodium.org/doc/) Sodium crypto library
+  * JSON [Web Tokens](https://jwt.io/)
