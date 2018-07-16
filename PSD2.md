@@ -34,7 +34,7 @@ However, no sensitive information shall be shared through the testing facility.
 
 # Legend
 
-**ASPSPs** - Account servicing payment service provider
-**AISP** - Account information service providers
-**PISP** - Payment initiation service providers
-**PSP** - Payment service provider
+* **ASPSPs** - Account servicing payment service provider
+* **AISP** - Account information service providers
+* **PISP** - Payment initiation service providers
+* **PSP** - Payment service provider
