@@ -11,9 +11,9 @@
 ### 2. For the purposes of authentication of the payment service user, the interface referred to in paragraph 1 shall allow AISP and PISP to rely on all the authentication procedures provided by the ASPSP to the payment service user.
 
 The interface shall at least meet all of the following requirements:
-  * a payment initiation service provider or an account information service provider shall be able to instruct the ASPSP to start the authentication based on the consent of the payment service user;
-  * communication sessions between the ASPSP, the account information service provider, the payment initiation service provider and any payment service user concerned shall be established and maintained throughout the authentication;
-  * the integrity and confidentiality of the personalised security credentials and of authentication codes transmitted by or through the payment initiation service provider or the account information service provider shall be ensured.
+  * a PISP or an AISP shall be able to instruct the ASPSP to start the authentication based on the consent of the payment service user;
+  * communication sessions between the ASPSP, the AISP, the PISP and any payment service user concerned shall be established and maintained throughout the authentication;
+  * the integrity and confidentiality of the personalised security credentials and of authentication codes transmitted by or through the PISP or the AISP shall be ensured.
 
 ### 3. ASPSP shall ensure that their interfaces follow standards of communication which are issued by international or European standardisation organisations.
 
@@ -35,6 +35,6 @@ However, no sensitive information shall be shared through the testing facility.
 # Legend
 
 * **ASPSP** - Account servicing payment service provider
-* **AISP** - Account information service providers
-* **PISP** - Payment initiation service providers
+* **AISP** - Account information service provider
+* **PISP** - Payment initiation service provider
 * **PSP** - Payment service provider
