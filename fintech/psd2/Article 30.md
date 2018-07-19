@@ -30,11 +30,3 @@ PSPs shall document emergency situations where changes were implemented and make
 However, no sensitive information shall be shared through the testing facility.
 
 ### 6. Competent authorities shall ensure that ASPSP comply at all times with the obligations included in these standards in relation to the interface(s) that they put in place. In the event that an account servicing payment services provider fails to comply with the requirements for interfaces laid down in these standards, competent authorities shall ensure that the provision of payment initiation services and account information services is not prevented or disrupted to the extent that the respective providers of such services comply with the conditions defined under Article 33(5).
-
-
-# Legend
-
-* **ASPSP** - Account servicing payment service provider
-* **AISP** - Account information service provider
-* **PISP** - Payment initiation service provider
-* **PSP** - Payment service provider
