@@ -28,6 +28,9 @@ bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/bins
 * Analyzing technology, website [built with](https://builtwith.com/)
 * PHP [eval](https://3v4l.org/) online
 * Online [RegExp](https://regex101.com/)
+* Testing & QA
+  * [Special Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - collection of strings, 
+    that may cause damage application or database
 * Security & encryption
   * [Cryptico](http://wwwtyro.github.io/cryptico/) -  JS RSA & AES library
   * [Sodium](https://download.libsodium.org/doc/) Sodium crypto library
