@@ -7,6 +7,27 @@
 * Full [list](https://github.com/sindresorhus/awesome) of other awesome things
 * Build [your own](https://github.com/danistefanovic/build-your-own-x) technology
 
+# Gitmoji
+https://gitmoji.carloscuesta.me/
+
+| Pattern | Meaning |
+| ------- | ------- |
+| `:sparkles:`| :sparkles: Introducing new features. |
+| `:bug:` | :bug: Fixing a bug. |
+| `:recycle:` | :recycle: Refactoring code. |
+| `:ambulance:` | :ambulance: Critical hotfix. |
+| `:card_file_box:` | :card_file_box: Performing database related changes / migrations | 
+| `:pencil2:` | :pencil2: Fixing typos. | 
+| `:lock:` | :lock: Fixing security issues. |
+| `:bulb:` | :bulb: Documenting source code. | 
+| `:boom:` | :boom: Introducing breaking changes. | 
+| `:white_check_mark:` | :white_check_mark: Updating tests. |
+| `:triangular_flag_on_post:` | :triangular_flag_on_post: Adding, updating, or removing feature flags | 
+| `:wastebasket:` | :wastebasket: Deprecating code that needs to be cleaned up. |
+| `:wrench:` | :wrench: Changing configuration files. |
+| `:arrow_up:` | :arrow_up: Upgrading dependencies. |
+| `:heavy_plus_sign:` | :heavy_plus_sign: Adding a dependency. | 
+
 # One-liners
 
 ### Install [Composer](https://getcomposer.org/)
