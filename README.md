@@ -36,6 +36,7 @@ bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/bins
 # Interesting and useful
 
 * Awesome Lists
+  * [API](https://github.com/public-api-lists/public-api-lists)
   * [Go](https://github.com/avelino/awesome-go)
   * [Java](https://github.com/akullpp/awesome-java)
   * [JavaScript](https://github.com/sorrycc/awesome-javascript)
