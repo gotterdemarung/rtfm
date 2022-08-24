@@ -59,3 +59,37 @@ bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/bins
   * [Sodium](https://download.libsodium.org/doc/) Sodium crypto library
   * JSON [Web Tokens](https://jwt.io/)
  
+
+# My things on GitHub
+
+- Go
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/artifacts?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/artifacts?style=flat-square)
+    [👑Artifacts](https://github.com/mono83/artifacts) - Tiny tool able to grab data from MySQL and send it to InfluxDB as gauge metrics.
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/config?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/config?style=flat-square)
+    [Config](https://github.com/mono83/config) - Library to operate JSON/YAML/TOML/INI configuration files with (almost) auto validation.
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/lazy?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/lazy?style=flat-square)
+    [Lazy](https://github.com/mono83/lazy) - Generic lazy instantiation singleton container.
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/hare?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/hare?style=flat-square)
+    [🐇 Hare](https://github.com/mono83/hare) - Tiny tool to work with RabbitMQ: backup/restore queues, peek inside, circuit break.
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/maybe?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/maybe?style=flat-square)
+    [Maybe](https://github.com/mono83/maybe) - Generic **maybe** monad implementation in Go.
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/set?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/set?style=flat-square)
+    [Set](https://github.com/mono83/Set) - Create int/string sets
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/sqlt?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/sqlt?style=flat-square)
+    [SQLt](https://github.com/mono83/sqlt) - Small tools for Go SQL. Last insert ID, `UnixSeconds` type, reading from database into unstructed map, etc.
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/try?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/try?style=flat-square)
+    [Try](https://github.com/mono83/try) -  try-catch-finally on Golang 
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/udpwriter?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/udpwriter?style=flat-square)
+    [Udpwriter](https://github.com/mono83/udpwriter) - UDP client connection as io.Writer 
+  - ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/mono83/xray?style=flat-square)
+    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mono83/xray?style=flat-square)
+    [Xray](https://github.com/mono83/xray) - Framework for metrics and logging with Prometheus, InfluxDB, Logstash, StatsD support.
