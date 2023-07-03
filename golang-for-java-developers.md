@@ -780,4 +780,26 @@ func main() {
 Для написання більш зручних тестів із ассертами, потрібно використовувати якусь лібку, 
 наприклад https://github.com/stretchr/testify
 
+Тест для функції `divide`, що описувалася вище:
+
+```go
+func TestDivide(t *testing.T) {
+	res, err := divide(9, 2)
+	if err != nil {
+		t.Error(err)
+	} else if res != 4.5 {
+		t.Errorf("Expected 4.5 but got %v", res)
+	}
+}
+```
+
+Те саме, але за допомоги `stretchr/testify`:
+```go
+func TestDivide(t *testing.T) {
+	if res, err := divide(9, 2); assert.NoError(t, err) {
+		assert.Equal(t, 4.5, res)
+	}
+}
+```
+
 # Багатозадачність
